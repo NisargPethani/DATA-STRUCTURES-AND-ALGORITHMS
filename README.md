@@ -4,3 +4,4 @@
 1. [B+ Tree](/B-PLUS-TREE)
 
 ## ALGORITHMS
+1. [External Sorting](/EXTERNAL-SORTING)
