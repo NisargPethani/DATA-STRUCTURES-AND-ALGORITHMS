@@ -2,6 +2,7 @@
 
 ## PROJECTS
 1. [HTTP based simple FTP client server](/HTTP-BASED-SIMPLE-FTP-CLIENT-SERVER)
+2. [Remote Procedure Call](/RPC)
 
 ## DATA STRUCTURES
 1. [B+ Tree](/B-PLUS-TREE)
